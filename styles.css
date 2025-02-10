@@ -1,5 +1,4 @@
-﻿/* Root for consistent Catppuccin Macchiato theme colors */
-:root {
+﻿:root {
     --base: #24273a;
     --mantle: #1e2030;
     --crust: #181926;
@@ -88,7 +87,7 @@ h1 {
     color: var(--text);
 }
 
-/* Hover effects for individual dice buttons */
+/* Hover effect */
 .dice-d4:hover {
     background-color: var(--peach);
     color: var(--text);
